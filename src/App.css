@@ -1,0 +1,15 @@
+.App {
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+}
+
+label {
+  display: block;
+}
+
+input {
+  width: 25%;
+  margin-bottom: 10px;
+}
